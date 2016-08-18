@@ -1,0 +1,14 @@
+layout_spectrum: 0.8098547
+typography_spectrum: 0.6911546
+color:
+  saturation: 0.2898438
+  lightness: 0.4191068
+  brandStrength: 0.1215739
+  rhythmicContrast: 0.1788701
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Oblique stories
